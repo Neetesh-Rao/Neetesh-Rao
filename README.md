@@ -9,13 +9,13 @@
 <br/>
 
 <!-- PROFILE VIEWS + SOCIAL BADGES -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=7c3aed&labelColor=0d1117&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Neetesh-Rao&style=for-the-badge&color=7c3aed&labelColor=0d1117&label=PROFILE+VIEWS"/>
 &nbsp;
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/neetesh-kumar-yadav-714767254"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:neeteshyadav0206@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 &nbsp;
-<a href="https://YOUR_PORTFOLIO.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://neeteshportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
@@ -98,9 +98,9 @@ const neetesh = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neetesh-Rao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&hide_border=false"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neetesh-Rao&layout=compact&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&hide_border=false"/>
 
 </div>
 
@@ -129,7 +129,7 @@ const neetesh = {
 ## `> cat activity.log`
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=false&border_color=7c3aed&title_color=c9d1d9" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neetesh-Rao&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=false&border_color=7c3aed&title_color=c9d1d9" width="100%"/>
 </div>
 
 ---
@@ -137,7 +137,7 @@ const neetesh = {
 ## `> ./trophies`
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=false&no-bg=false&column=7&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Neetesh-Rao&theme=tokyonight&no-frame=false&no-bg=false&column=7&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="100%"/>
 </div>
 
 ---
